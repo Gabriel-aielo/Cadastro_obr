@@ -1,0 +1,44 @@
+body{
+    margin: 0 auto;
+    height: 100vh;
+    font-family: 'Shantell Sans', cursive;
+}
+
+section{
+    font-family: 'Shantell Sans', cursive;
+
+}
+
+.textCustom{
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.textExplicacao{
+    text-align: justify;
+}
+.textCustomLink a{
+    color: black;
+    text-decoration: none;
+}
+.img1{
+    background: url(./img/psita.webp)no-repeat center center;
+    background-size:cover;
+    height: 200px;
+}
+.img2{
+    background: url(./img/premiacao.webp)no-repeat center center;
+    background-size:cover;
+    height: 200px;
+}
+.img3{
+    background: url(./img/material.webp)no-repeat center center;
+    background-size:cover;
+    height: 200px;
+}
+.img4{
+    background: url(./img/teorico.jpg)no-repeat center center;
+    background-size:cover;
+    height: 200px;
+}
